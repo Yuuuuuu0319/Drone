@@ -1,5 +1,5 @@
  # 前置作業 - 裝槳
-<img width="441" alt="螢幕擷取畫面 2023-12-12 133103" src="https://github.com/rong167/project1/assets/96771674/a963d38a-5fee-404d-9ed1-b364f3c5caa8">    <img width="441" alt="螢幕擷取畫面 2023-12-12 133315" src="https://github.com/rong167/project1/assets/96771674/3fda109e-b3f1-438b-8e60-df648c3c8a23">
+<img width="400" alt="螢幕擷取畫面 2023-12-12 133103" src="https://github.com/rong167/project1/assets/96771674/a963d38a-5fee-404d-9ed1-b364f3c5caa8">    <img width="400" alt="螢幕擷取畫面 2023-12-12 133315" src="https://github.com/rong167/project1/assets/96771674/3fda109e-b3f1-438b-8e60-df648c3c8a23">
 
 1. 機臂拉起即固定，收起為機臂前`紅色卡準往前推`即可。
 2. 螺旋槳需要按照顏色組裝。
