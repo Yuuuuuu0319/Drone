@@ -17,7 +17,7 @@
 
  # 前置作業 - 啟動
 
-<img width="400" alt="4.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/4.png">  <img width="375" alt="5.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/5.png">
+<img width="350" alt="4.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/4.png">  <img width="331" alt="5.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/5.png">
 
 1. 無人機無開關，接線啟動無人機。
 
@@ -27,7 +27,7 @@
 
   # 前置作業 - 飛行按鍵
 
-<img width="570" alt="6.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/6.png">
+<img width="670" alt="6.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/6.png">
 
 A: 自動飛行: 寫任務給他，下推就會自己執行。中途停止上推，就會以**新切**的C模式為主。 
 
@@ -63,7 +63,7 @@ D: 自動返航 (下推)
 7. 降落時，左手**慢慢**往下推，`下推到底往左` 即**上鎖**。
 
 # 設定
-<img width="490" alt="7.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/7.png">
+<img width="590" alt="7.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/7.png">
 
 速傳鮑率: 有線 -> `115200` &nbsp; 無線 -> `57600`
 
