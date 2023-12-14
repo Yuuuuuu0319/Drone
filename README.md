@@ -1,5 +1,5 @@
  # 前置作業 - 裝槳
-<img width="400" alt="螢幕擷取畫面 2023-12-12 133103" src="https://github.com/rong167/project1/assets/96771674/a963d38a-5fee-404d-9ed1-b364f3c5caa8">    <img width="400" alt="螢幕擷取畫面 2023-12-12 133315" src="https://github.com/rong167/project1/assets/96771674/3fda109e-b3f1-438b-8e60-df648c3c8a23">
+<img width="400" alt="1.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/1.png">    <img width="400" alt="2.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/2.png">
 
 1. 機臂拉起即固定，收起為機臂前`紅色卡準往前推`即可。
 2. 螺旋槳需要按照顏色組裝。
@@ -9,7 +9,7 @@
 
  # 前置作業 - 裝電池
 
-<img width="488" alt="螢幕擷取畫面 2023-12-12 155126" src="https://github.com/rong167/project1/assets/96771674/9c54daea-e3a5-423f-92ca-feaab6c3ccf5">
+<img width="488" alt="3.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/3.png">
 
 1.電池束帶兩邊都要順著往上`拉緊`，最後需要拉扯電池確定有無固定。
 
@@ -17,7 +17,7 @@
 
  # 前置作業 - 啟動
 
-<img width="400" alt="螢幕擷取畫面 2023-12-12 155617" src="https://github.com/rong167/project1/assets/96771674/45338b0b-c5e3-4c1f-af7b-ef92e09c4a95">  <img width="375" alt="螢幕擷取畫面 2023-12-12 155646" src="https://github.com/rong167/project1/assets/96771674/4baeecfe-65e4-4b82-97af-abef486972cb">
+<img width="400" alt="4.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/4.png">  <img width="375" alt="5.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/5.png">
 
 1. 無人機無開關，接線啟動無人機。
 
@@ -27,7 +27,7 @@
 
   # 前置作業 - 飛行按鍵
 
-<img width="570" alt="螢幕擷取畫面 2023-12-12 162645" src="https://github.com/rong167/project1/assets/96771674/6578f4b0-cfea-4c80-aeb7-d7e000b4c02b">
+<img width="570" alt="6.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/6.png">
 
 A: 自動飛行: 寫任務給他，下推就會自己執行。中途停止上推，就會以**新切**的C模式為主。 
 
@@ -63,7 +63,7 @@ D: 自動返航 (下推)
 7. 降落時，左手**慢慢**往下推，`下推到底往左` 即**上鎖**。
 
 # 設定
-<img width="490" alt="螢幕擷取畫面 2023-12-12 160709" src="https://github.com/rong167/project1/assets/96771674/4d9ceb39-d226-4bcf-b670-17b577bda74b">
+<img width="490" alt="7.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/7.png">
 
 速傳鮑率: 有線 -> `115200` &nbsp; 無線 -> `57600`
 
