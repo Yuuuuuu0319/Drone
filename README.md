@@ -15,7 +15,7 @@
 
 <img width="488" alt="3.png" src="https://github.com/Yuuuuuu0319/Drone/blob/main/img/3.png">
 
-1. 電池束帶兩邊都要順著往上 `拉緊`，最後需要拉扯電池確定有無固定。
+1. 電池束帶兩邊都要順著往上`拉緊`，最後需要拉扯電池確定有無固定。
 
 :warning: 調整束帶的環(黃色框)，**不要固定在四個角**，會鎖不緊。
 
